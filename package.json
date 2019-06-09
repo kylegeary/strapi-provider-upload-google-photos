@@ -12,9 +12,9 @@
   },
   "keywords": [
     "Strapi",
-    "Provider",
     "Google",
     "Photos",
+    "Provider",
     "Upload"
   ],
   "author": "Kyle Geary",
