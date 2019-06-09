@@ -3,7 +3,7 @@
 ```bash
 cd plugins/upload
 npm i --save strapi-provider-upload-google-photos
-````
+```
 
-
-- [MIT License](LICENSE.md)
+## License
+- [ISC License](LICENSE.md)
