@@ -1,0 +1,26 @@
+{
+  "name": "strapi-provider-upload-google-photos",
+  "version": "1.0.0",
+  "description": "Google Photos provider for strapi upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylegeary/strapi-provider-upload-google-photos.git"
+  },
+  "keywords": [
+    "Strapi",
+    "Provider",
+    "Google",
+    "Photos",
+    "Upload"
+  ],
+  "author": "Kyle Geary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylegeary/strapi-provider-upload-google-photos/issues"
+  },
+  "homepage": "https://github.com/kylegeary/strapi-provider-upload-google-photos#readme"
+}
